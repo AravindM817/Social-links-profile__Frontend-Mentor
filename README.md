@@ -27,7 +27,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [GitHub Repository](https://github.com/AravindM817/Social-links-profile__Frontend-Mentor)
-- Live Site URL: [Add live site URL here]()
+- Live Site URL: [guileless-bunny-5688f9](https://guileless-bunny-5688f9.netlify.app/)
 
 ## My process
 
